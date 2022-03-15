@@ -26,7 +26,8 @@ section{
 }
 .camera{
     height: 65px;
-    background-color: purple; 
+    /* background-color: purple;  */
+    background-color: blue;
     border-radius: 20px;
     background-image: linear-gradient(to right,hsl(264, 100%, 61%), hsl(293, 100%, 63%) 
     );
