@@ -16,7 +16,7 @@ const Chat = () => {
                                 <span className='space'>&nbsp;</span>
                                     <img className='avatar' src={avatar} alt='samuel' />
                                     <h5>Samuel Green</h5>
-                                    <p className='available'>Available to Walk </p>
+                                    <p className='available'>Available to Walks </p>
                                 </div>
                                 <div className='top-text'>
                                     <p className='top-chat'>That sounds great. I’d be happy with that.</p>
@@ -29,7 +29,7 @@ const Chat = () => {
                                         <img className='dog' src={image3} alt='dog-3' />
                                     </div>
                                     <span className='here'><p className='few'>Here are a few pictures. She’s a happy girl!</p></span>
-                                    <span className='make'><p>Can you make it?</p></span>
+                                    <span className='make'><p>Can you make its?</p></span>
                                 </div>
                                 <div className='text-bottom'>
                                     <span className='look'><p>She looks so happy! The time we discussed works. How long shall I take her out for?</p></span>
@@ -49,7 +49,7 @@ const Chat = () => {
                             </div>
                             <div className='message'>
                                 <h1>Simple bookings.</h1>
-                                <p className='final'> Stay in touch with our dog walkers through the chat interface. This makes it easy to discuss arrangements and make bookings. Once the walk has been completed you can rate your walker and book again all through the chat.</p>
+                                <p className='final'> Stay in touch with our dog walkers through the chat interface. This makes it easy to discuss arrangements and make bookings. Once the walk has been completed you can rate your walker and book again all through the chats.</p>
                             </div>
                         </div>
                     </section>
